@@ -5,7 +5,6 @@ Professor: Stephen Grider
 
 Tecnologias Utilizadas:
 
-
 - Javascript
 - HTML
 - CSS
