@@ -1,4 +1,5 @@
 Curso de React feito pela Udemy. 
+Link: https://www.udemy.com/react-redux/
 
 Professor: Stephen Grider
 
