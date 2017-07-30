@@ -14,5 +14,6 @@ Tecnologias Utilizadas:
 - Webpack
 - Git
 - Nodejs
+- Bootstrap
 
 Exercício: Construção de um aplicativo com uma proposta parecida com uma página do YouTube, porém, com carregamento em real-time.
