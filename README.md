@@ -9,7 +9,6 @@ Tecnologias Utilizadas:
 - HTML
 - CSS
 - React
-- Redux
 - Webpack
-- Github
+- Git
 - Nodejs
